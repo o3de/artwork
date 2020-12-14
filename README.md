@@ -22,10 +22,10 @@
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="03DE/Color/Color/O3DE-Logo-Color.png" width="200"></td>
-        <td><img src="03DE/Color/O3DE-Icon-Color.png" width="200"></td>
+        <td><img src="03DE/Color/O3DE-Logo-Color.png" width="200"></td>
+        <td><img src="03DE/Color/O3DE-Icon-Color.png" width="75"></td>
         <td><img src="03DE/Color/O3DE-Logo-Color.svg" width="200"></td>
-        <td><img src="03DE/Color/O3DE-Icon-Color.svg" width="200"></td>
+        <td><img src="03DE/Color/O3DE-Icon-Color.svg" width="75"></td>
     </tr>
 </table>
 
