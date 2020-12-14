@@ -50,9 +50,9 @@
     <tr>
         <th>color</th>
         <td><img src="03DE/Black/O3DE-Logo-Black.png" width="200"></td>
-        <td><img src="03DE/Black/O3DE-Icon-Black.png" width="200"></td>
+        <td><img src="03DE/Black/O3DE-Icon-Black.png" width="75"></td>
         <td><img src="03DE/Black/O3DE-Logo-Black.svg" width="200"></td>
-        <td><img src="03DE/Black/O3DE-Icon-Black.svg" width="200"></td>
+        <td><img src="03DE/Black/O3DE-Icon-Black.svg" width="75"></td>
     </tr>
 </table>
 
@@ -77,9 +77,9 @@
     <tr>
         <th>color</th>
         <td><img src="03DE/Knockout-Black/O3DE-Logo-Knockout-Black.png" width="200"></td>
-        <td><img src="03DE/Knockout-Black/O3DE-Icon-Knockout-Black.png" width="200"></td>
+        <td><img src="03DE/Knockout-Black/O3DE-Icon-Knockout-Black.png" width="75"></td>
         <td><img src="03DE/Knockout-Black/O3DE-Logo-Knockout-Black.svg" width="200"></td>
-        <td><img src="03DE/Knockout-Black/O3DE-Icon-Knockout-Black.svg" width="200"></td>
+        <td><img src="03DE/Knockout-Black/O3DE-Icon-Knockout-Black.svg" width="75"></td>
     </tr>
 </table>
 
@@ -105,9 +105,9 @@
     <tr>
         <th>color</th>
         <td><img src="03DE/White/O3DE-Logo-White.png" width="200"></td>
-        <td><img src="03DE/White/O3DE-Icon-White.png" width="200"></td>
+        <td><img src="03DE/White/O3DE-Icon-White.png" width="75"></td>
         <td><img src="03DE/White/O3DE-Logo-White.svg" width="200"></td>
-        <td><img src="03DE/White/O3DE-Icon-White.svg" width="200"></td>
+        <td><img src="03DE/White/O3DE-Icon-White.svg" width="75"></td>
     </tr>
 </table>
 
@@ -133,8 +133,8 @@
     <tr>
         <th>color</th>
         <td><img src="03DE/Knockout-White/O3DE-Logo-Knockout-White.png" width="200"></td>
-        <td><img src="03DE/Knockout-White/O3DE-Icon-Knockout-White.png" width="200"></td>
+        <td><img src="03DE/Knockout-White/O3DE-Icon-Knockout-White.png" width="75"></td>
         <td><img src="03DE/Knockout-White/O3DE-Logo-Knockout-White.svg" width="200"></td>
-        <td><img src="03DE/Knockout-White/O3DE-Icon-Knockout-White.svg" width="200"></td>
+        <td><img src="03DE/Knockout-White/O3DE-Icon-Knockout-White.svg" width="75"></td>
     </tr>
 </table>
