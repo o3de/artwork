@@ -24,8 +24,8 @@
         <th>color</th>
         <td><img src="03DE/Color/Color/O3DE-Logo-Color.png" width="200"></td>
         <td><img src="03DE/Color/O3DE-Icon-Color.png" width="200"></td>
-        <td><img src="03DE/Color/O3DE-Logo-Color.png" width="200"></td>
-        <td><img src="03DE/Color/O3DE-Icon-Color.png" width="200"></td>
+        <td><img src="03DE/Color/O3DE-Logo-Color.svg" width="200"></td>
+        <td><img src="03DE/Color/O3DE-Icon-Color.svg" width="200"></td>
     </tr>
 </table>
 
@@ -50,9 +50,9 @@
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="/O3DE/Black/O3DE-Logo-Black.png" width="200"></td>
-        <td><img src="O3DE/Black/O3DE-Icon-Black.png" width="200"></td>
-        <td><img src="O3DE/Black/O3DE-Logo-Black.png" width="200"></td>
-        <td><img src="O3DE/Black/O3DE-Icon-Black.png" width="200"></td>
+        <td><img src="03DE/Black/O3DE-Logo-Black.png" width="200"></td>
+        <td><img src="03DE/Black/O3DE-Icon-Black.png" width="200"></td>
+        <td><img src="03DE/Black/O3DE-Logo-Black.svg" width="200"></td>
+        <td><img src="03DE/Black/O3DE-Icon-Black.svg" width="200"></td>
     </tr>
 </table>
