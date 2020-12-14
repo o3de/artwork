@@ -1,8 +1,7 @@
 # O3DE Artwork and Logos
 
 
-### Color
-
+#### Color
 
 <table>
     <tr>
@@ -29,7 +28,7 @@
     </tr>
 </table>
 
-### Black
+#### Black
 
 <table>
     <tr>
@@ -56,7 +55,7 @@
     </tr>
 </table>
 
-### Knockout-Black
+#### Knockout-Black
 
 <table>
     <tr>
@@ -84,7 +83,7 @@
 </table>
 
 
-### White
+#### White
 
 <table>
     <tr>
@@ -112,7 +111,8 @@
 </table>
 
 
-### Knockout-White
+
+#### Knockout-White
 
 <table>
     <tr>
