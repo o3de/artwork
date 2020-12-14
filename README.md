@@ -22,7 +22,7 @@
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="O3DE/Color/O3DE-Logo-Color.png" width="200"></td>
+        <td><img src="/O3DE/Color/O3DE-Logo-Color.png" width="200"></td>
         <td><img src="O3DE/Color/O3DE-Icon-Color.png" width="200"></td>
         <td><img src="O3DE/Color/O3DE-Logo-Color.png" width="200"></td>
         <td><img src="O3DE/Color/O3DE-Icon-Color.png" width="200"></td>
