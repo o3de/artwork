@@ -34,26 +34,26 @@
 
 <table>
     <tr>
-    	<th colspan="9"></th>
+    	<th colspan="4"></th>
     </tr>
     <tr>
         <th></th>
         <th colspan="2">PNG</th>
-        <th colspan="2">SVG</th>    </tr>
+        <th colspan="2">SVG</th>
+    </tr>
     <tr>
         <th></th>
         <th>horizontal Wordmark</th>
-         <th>icon</th>
-   
+        <th>icon</th>
         <th>horizontal Wordmark</th>
         <th>icon</th>
-           </tr>
+    </tr>
     <tr>
         <th>White</th>
-        <td><img src="o3de/02_O3DE_White%20Logo%20with%20Wordmark/O3DE%20White%20Logo.png" width="200"></td>
-         <td><img src="o3de/04_O3DE_White Application Icon/B&W Icon v2_192.png" width="75"></td>
-          <td><img src="o3de/02_O3DE_White%20Logo%20with%20Wordmark/O3DE%20White%20Logo.svg" width="75"></td>
-           <td><img src="o3de/04_O3DE_White Application Icon/B&W Icon v2_192.png" width="75"></td>
-        
+        <td><img src="https://github.com/theheels/O3DF_art/blob/main/o3de/02_O3DE_White%20Logo%20with%20Wordmark/O3DE%20White%20Logo.png" width="200</td>
+        <td><img src="https://github.com/theheels/O3DF_art/blob/main/o3de/04_O3DE_White%20Application%20Icon/B%26W%20Icon%20v2_192.png" width="75"></td>
+        <td><img src="https://github.com/theheels/O3DF_art/blob/main/o3de/04_O3DE_White%20Application%20Icon/B%26W%20Icon%20v2_192.png" width="75"></td>
+        <td><img src="https://github.com/theheels/O3DF_art/blob/main/o3de/02_O3DE_White%20Logo%20with%20Wordmark/O3DE%20White%20Logo.svg" width="200"></td>
+         <td><img src="https://github.com/theheels/O3DF_art/blob/main/o3de/04_O3DE_White%20Application%20Icon/B%26W%20Icon%20v2.svg" width="75"></td>
     </tr>
 </table>
