@@ -1,4 +1,4 @@
-# o3de Artwork and Logos
+# O3de Artwork and Logos
 
 #### Full Color
 
