@@ -1,59 +1,9 @@
-# O3dE Artwork and Logos
+# O3DE Logos
 
-#### Full Color
+In this repo, we have artwork in standard formats for O3DE. We prepare artwork in 2 formats (PNG & SVG) and at least 3 versions (color/black/white).
 
-<table>
-    <tr>
-    	<th colspan="9"></th>
-    </tr>
-    <tr>
-        <th></th>
-        <th colspan="3">PNG</th>
-        <th colspan="3">SVG</th>
-    </tr>
-    <tr>
-        <th></th>
-        <th>horizontal Wordmark</th>
-        <th>icon</th>
-        <th>app icon</th>
-        <th>horizontal Wordmark</th>
-        <th>icon</th>
-        <th>app icon</th>    </tr>
-    <tr>
-        <th>Full Color</th>
-        <td><img src="o3de/01_O3DE_Color%20Logo%20with%20Wordmark/O3DE%20Color%20Logo.png" width="200"></td>
-        <td><img src="o3de/03_O3DE_Color%20Application%20Icon/Square/O3DE%20Icon_96.png" width="75"></td>
-        <td><img src="o3de/03_O3DE_Color%20Application%20Icon/Round/Engine%20Color%20Color.png" width="75"></td>
-        <td><img src="o3de/01_O3DE_Color%20Logo%20with%20Wordmark/O3DE%20Color%20Logo.svg" width="200"></td>
-        <td><img src="o3de/03_O3DE_Color Application Icon/Square/O3DE Icon.svg" width="75"></td>
-         <td><img src="o3de/03_O3DE_Color Application Icon/Round/Engine Icon v2.svg" width="75"></td>
-    </tr>
-</table>
+With many browsers, you can right-click and copy the logo of your choice below. Please note that although PNG is more common, SVG file sizes are smaller, supported in all modern web browsers, and a high-resolution format suitable for both print and high-resolution computer screens.
 
-#### White
+Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage with the key excepts available at LICENSE.md. Refer to the [O3DE Brand Guide](https://o3de.org/brand-guidelines/) for guidelines on how to use the logo.
 
-<table>
-    <tr>
-    	<th colspan="4"></th>
-    </tr>
-    <tr>
-        <th></th>
-        <th colspan="2">PNG</th>
-        <th colspan="2">SVG</th>
-    </tr>
-    <tr>
-        <th></th>
-        <th>horizontal Wordmark</th>
-        <th>icon</th>
-        <th>horizontal Wordmark</th>
-        <th>icon</th>
-    </tr>
-    <tr>
-        <th>White</th>
-        <td><img src="o3de/02_O3DE_White%20Logo%20with%20Wordmark/O3DE%20White%20Logo.png" width="200</td>
-        <td><img src="o3de/04_O3DE_White%20Application%20Icon/B%26W%20Icon%20v2_192.png" width="75"></td>
-        <td><img src="o3de/04_O3DE_White%20Application%20Icon/B%26W%20Icon%20v2_192.png" width="75"></td>
-        <td><img src="o3de/02_O3DE_White%20Logo%20with%20Wordmark/O3DE%20White%20Logo.svg" width="200"></td>
-         <td><img src="o3de/04_O3DE_White%20Application%20Icon/B%26W%20Icon%20v2.svg" width="75"></td>
-    </tr>
-</table>
+Questions? Please email info@o3d.foundation.
